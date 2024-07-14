@@ -11,7 +11,11 @@ layout: default
       
 
       <div class="entry">
-        {{ post.date | date: "%B %e, %Y" }}
+
+        <div class="date">
+          {{ post.date | date: "%B %e, %Y" }}
+        </div>
+
         {{ post.content }}
       </div>
 
