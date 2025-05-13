@@ -1,0 +1,18 @@
+---
+---
+/* Override theme defaults */
+/* $base-font-family: Serif; */
+
+/* load _sass/minima.scss */
+@import "minima";
+
+/* Put any custom CSS here */
+
+
+/*.site-title {
+  font-family: Garamond;
+}*/
+
+.rss-subscribe {
+  display: none;
+}

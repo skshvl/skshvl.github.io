@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Eduard Saakashvili, an AI researcher based in Utrecht. My interests lie at the intersection of data science and the humanities. On this page, I post essays, book reviews, technical projects, and other content related to my interests.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I got my MSc in Artificial Intelligence from Utrecht University. Before that, I worked in journalism and content production for organizations including NPR, Coda Story, Blinkist, and the Hertie School of Governance, writing [articles](https://www.codastory.com/disinformation/make-truth-great-again/) and making [podcasts](https://whyy.org/segments/who-owns-the-moon/). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I attended Swarthmore College, where I majored in Film and Media Studies.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I sometimes post to my [Substack newsletter](https://eduard.substack.com/) when I have a specific project going on there. My last newsletter project was a March 2020 attempt to theorize the early days of the pandemic.
