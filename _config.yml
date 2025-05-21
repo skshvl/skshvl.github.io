@@ -33,11 +33,7 @@ rss: RSS feed
 theme: minima
 plugins:
   - jekyll-feed
-show_excerpts: false
-minima:
-  nav_pages:
-    - about.md
-    - categories.md
+show_excerpts: true
 
 
 
